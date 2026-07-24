@@ -1,0 +1,57 @@
+generated: '2026-07-18'
+method: searched
+source: https://beacon.bio/open-source-software + https://github.com/beacon-biosignals
+note: >-
+  Beacon Biosignals does not publish a public API or client SDK. These are its first-party
+  open-source Julia libraries (registered in the Julia General registry), not client libraries
+  for a Beacon API. Recorded as Packages (open-source software surface), not as SDKs.
+packages:
+- language: julia
+  registry: julia-general
+  name: Onda.jl
+  url: https://github.com/beacon-biosignals/Onda.jl
+  install: 'pkg> add Onda'
+  description: High-throughput manipulation of structured signal data across encodings, file formats, and storage layers.
+  official: true
+- language: julia
+  registry: julia-general
+  name: Legolas.jl
+  url: https://github.com/beacon-biosignals/Legolas.jl
+  install: 'pkg> add Legolas'
+  description: Tables.jl-friendly mechanisms for constructing, reading, writing, and validating Arrow tables against extensible, versioned schemas.
+  official: true
+- language: julia
+  registry: julia-general
+  name: EDF.jl
+  url: https://github.com/beacon-biosignals/EDF.jl
+  install: 'pkg> add EDF'
+  description: Read and write European Data Format (EDF) and BioSemi Data Format files in Julia.
+  official: true
+- language: julia
+  registry: julia-general
+  name: Effects.jl
+  url: https://github.com/beacon-biosignals/Effects.jl
+  install: 'pkg> add Effects'
+  description: Effects prediction for linear and generalized linear regression models.
+  official: true
+- language: julia
+  registry: julia-general
+  name: Lighthouse.jl
+  url: https://github.com/beacon-biosignals/Lighthouse.jl
+  install: 'pkg> add Lighthouse'
+  description: Performance evaluation tools for multiclass, multirater classification models.
+  official: true
+- language: julia
+  registry: julia-general
+  name: PyMNE.jl
+  url: https://github.com/beacon-biosignals/PyMNE.jl
+  install: 'pkg> add PyMNE'
+  description: Julia interface to MNE-Python via PythonCall.
+  official: true
+- language: julia
+  registry: julia-general
+  name: KeywordSearch.jl
+  url: https://github.com/beacon-biosignals/KeywordSearch.jl
+  install: 'pkg> add KeywordSearch'
+  description: Fuzzy keyword matching across text documents.
+  official: true

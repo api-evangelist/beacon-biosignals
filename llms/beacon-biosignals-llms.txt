@@ -1,0 +1,27 @@
+# Beacon Biosignals
+
+> Beacon Biosignals develops AI-powered neurotechnology for brain health, applying machine learning to EEG data at scale for precision-neuroscience drug development and home sleep testing diagnostics. Beacon does not publish a public developer API; this profile centers on its open-source Julia software and company identity.
+
+## Company
+- [Website](https://beacon.bio/)
+- [About](https://beacon.bio/about)
+- [News / Blog](https://beacon.bio/news)
+- [Scientific Publications](https://beacon.bio/scientific-publications)
+- [Careers](https://beacon.bio/careers)
+
+## Products
+- [Life Sciences (clinical trials & research)](https://beacon.bio/life-sciences-products-services)
+- [SleepView Monitor (home sleep testing)](https://beacon.bio/sleepview-monitor)
+
+## Open Source (Julia)
+- [Open Source Software overview](https://beacon.bio/open-source-software)
+- [GitHub organization](https://github.com/beacon-biosignals)
+- [Onda.jl — structured signal data](https://github.com/beacon-biosignals/Onda.jl)
+- [Legolas.jl — versioned Arrow table schemas](https://github.com/beacon-biosignals/Legolas.jl)
+- [EDF.jl — EDF/BDF signal file IO](https://github.com/beacon-biosignals/EDF.jl)
+- [Effects.jl — regression effects prediction](https://github.com/beacon-biosignals/Effects.jl)
+- [Lighthouse.jl — classification model evaluation](https://github.com/beacon-biosignals/Lighthouse.jl)
+
+## Legal
+- [Terms of Service](https://beacon.bio/legal/terms-of-service)
+- [Privacy Policy](https://app.beacon.bio/privacy)
